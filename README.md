@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gowshik-S
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C Language
+- 🌱 I’m currently learning python3
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me saairamgowshik@gmail.com
 - 😄 Pronouns: ...
