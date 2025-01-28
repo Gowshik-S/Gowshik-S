@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Gowshik-S
 - 👀 I’m interested in Coding
+- 🌱 I'm learnt basics of C Programming and I had completed some problems in hackerank.
 - 🌱 I’m currently learning python3
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me saairamgowshik@gmail.com
