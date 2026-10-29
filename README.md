@@ -1,66 +1,26 @@
-<h1 align="center">Gowshik S</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Aspiring DevOps Engineer · AI Systems Builder · Solo Founder at Inkstant Labs</strong>
-</p>
+<img src="./assets/terminal.svg" alt="Terminal: Gowshik S, AI & DevOps Engineer, deploying QuillPrint" width="100%">
 
-<p align="center">
-  <a href="https://gowshik.in">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/gowshiks">LinkedIn</a> ·
-  <a href="mailto:hello@gowshik.in">Email</a>
-</p>
+**Good ideas. Solid systems. Built with intent.**
 
-## About me
+<a href="https://gowshik.in"><img src="https://img.shields.io/badge/gowshik.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="gowshik.in"></a> <a href="https://www.linkedin.com/in/gowshiks/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/Gowshik004"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a> <a href="mailto:hello@gowshik.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-I'm a builder-first developer who values shipped products over credentials. I enjoy taking ideas from an early prototype to a working product, with a growing focus on DevOps, cloud infrastructure, automation, and reliable deployment workflows.
+</div>
 
-- Founder of **Inkstant Labs** and builder of [QuillPrint](https://quillprint.in), a live digital print marketplace in Puducherry
-- B.Tech student in **Artificial Intelligence & Data Science** at Sri Manakula Vinayagar Engineering College, Class of 2028
-- Building autonomous AI agents and production systems with FastAPI, Google Cloud Run, PostgreSQL, and Redis
-- Interested in self-hosted infrastructure, zero-trust architecture, observability, CI/CD, and platform engineering
+### Hey, I'm Gowshik 👋
 
-## Selected projects
+AI & DevOps engineer from Puducherry and the solo developer behind **[QuillPrint](https://quillprint.in)**. I build production software, AI agents and the infrastructure behind them. **AWS Certified Cloud Practitioner.**
 
-| Project | What it does |
-| --- | --- |
-| [QuillPrint](https://quillprint.in) | A live digital print marketplace that lets users upload documents, choose a nearby print partner, pay online, and collect their prints without waiting in a queue. |
-| [Rio Agent](https://github.com/Gowshik-S/Gemini-Live-Agent) | An autonomous voice agent that can understand a request and act across applications. Created as a participation project for the Gemini Live Agent Challenge and published on PyPI as [`rio-agent`](https://pypi.org/project/rio-agent/). |
-| [Mavericks Coding Platform](https://github.com/Gowshik-S/Maverick-Coding-Platform) | A multi-agent developer assessment platform that analyzes resumes, generates adaptive coding challenges, grades submissions, and creates personalized learning paths. |
-| [Ocean Sentinels](https://github.com/Gowshik-S/Ocean-Sentinels) | An offline-first coastal hazard reporting and disaster-response platform with web, mobile, real-time notification, and disconnected communication capabilities. [Live demo](https://sih.gowshik.in). |
-| AI-Assisted E-Waste Platform | A research-oriented academic project combining device classification, explainable ML, and pickup-route optimization for e-waste refurbishment workflows. |
+### Featured
 
-## Technologies
+<a href="https://quillprint.in"><img src="./assets/card-quillprint.svg" alt="QuillPrint — live in production" width="100%"></a>
 
-**Languages:** Python · Kotlin · JavaScript · SQL
+<a href="https://github.com/Gowshik-S/Gemini-Live-Agent"><img src="./assets/card-rio.svg" alt="Rio Live Agent" width="49%"></a> <a href="https://github.com/Gowshik-S/Ocean-Sentinels"><img src="./assets/card-ocean-sentinels.svg" alt="Ocean Sentinels" width="49%"></a>
+<a href="https://github.com/Gowshik-S/Xyena-AI"><img src="./assets/card-xyena.svg" alt="Xyena AI" width="49%"></a> <a href="https://github.com/Gowshik-S/Maverick-Coding-Platform"><img src="./assets/card-maverick.svg" alt="Maverick" width="49%"></a>
 
-**Backend & data:** FastAPI · PostgreSQL · Redis · SQLite · WebSockets
+### Stack
 
-**Cloud & DevOps:** Google Cloud Run · AWS · Oracle Cloud Infrastructure · Cloudflare · Docker · GitHub Actions · GHCR · Tailscale
+<img src="https://skillicons.dev/icons?i=py,go,ts,fastapi,postgres,redis,docker,linux,cloudflare,aws" alt="Python, Go, TypeScript, FastAPI, PostgreSQL, Redis, Docker, Linux, Cloudflare, AWS">
 
-**AI & applied ML:** Google Gemini · Google ADK · MobileNetV2 · XGBoost · SHAP · OR-Tools
-
-**Frontend & mobile:** React · Vanilla JavaScript · Jetpack Compose · Mapbox
-
-## Currently exploring
-
-- DevOps and platform engineering practices
-- Cloud automation, CI/CD, monitoring, and reliable deployments
-- Autonomous agents and applied machine learning
-- Data structures, algorithms, and competitive programming
-
-## Highlights
-
-- **AWS Cloud Foundations**
-- Cleared the internal round of **Smart India Hackathon 2025** with Ocean Sentinels
-- Active member of the **GitHub Student Developer Pack**
-- Building and operating real products while pursuing a full-time degree
-
-## Connect
-
-- Website: [gowshik.in](https://gowshik.in)
-- LinkedIn: [linkedin.com/in/gowshiks](https://www.linkedin.com/in/gowshiks)
-- Email: [hello@gowshik.in](mailto:hello@gowshik.in)
-
-<p align="center">
-  <em>Building useful systems, learning in public, and improving one deployment at a time.</em>
-</p>
+<sub>Also running a self-hosted Ubuntu homelab — <a href="https://www.gowshik.in/homeserver.html">see it live ↗</a></sub>

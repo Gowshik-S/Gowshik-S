@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="170" viewBox="0 0 430 170" role="img" aria-label="Xyena AI">
+<title>Xyena AI</title>
+<defs>
+<linearGradient id="sweep" gradientUnits="userSpaceOnUse" x1="-430" y1="0" x2="0" y2="0">
+<stop offset="0" stop-color="#3fb950" stop-opacity="0"/><stop offset="0.5" stop-color="#3fb950"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="860 0" dur="4s" repeatCount="indefinite"/>
+</linearGradient>
+<clipPath id="card"><rect width="430" height="170" rx="14"/></clipPath>
+</defs>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="429" height="169" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect width="430" height="3" fill="url(#sweep)" clip-path="url(#card)"/>
+<text x="24" y="46" fill="#e6edf3" font-size="21" font-weight="700">Xyena AI</text><text x="24" y="72" fill="#8b949e" font-size="13.5">Multi-agent supply finance, with a</text><text x="24" y="92" fill="#8b949e" font-size="13.5">Guardian that approves every action.</text><text x="24" y="124" fill="#3fb950" font-size="12" font-weight="600">Python · MCP · Postgres + pgvector</text><path d="M370 42 L404 54 V82 C404 104 390 118 370 126 C350 118 336 104 336 82 V54 Z" fill="#3fb950" fill-opacity="0.08" stroke="#3fb950" stroke-width="2"><animate attributeName="fill-opacity" values="0.05;0.2;0.05" dur="2.4s" repeatCount="indefinite"/></path><path d="M355 84 L366 95 L387 72" fill="none" stroke="#3fb950" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="50" stroke-dashoffset="50"><animate attributeName="stroke-dashoffset" values="50;0;0;50" keyTimes="0;0.3;0.85;1" dur="2.4s" repeatCount="indefinite"/></path>
+</svg>
