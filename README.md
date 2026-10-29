@@ -14,7 +14,7 @@ AI & DevOps engineer from Puducherry and the solo developer behind **[QuillPrint
 
 ### Featured
 
-<a href="https://quillprint.in"><img src="./assets/quillprint-card.svg" alt="QuillPrint — live in production" width="100%"></a>
+<a href="https://quillprint.in"><img src="./assets/featured-quillprint.svg" alt="QuillPrint — live in production" width="100%"></a>
 
 <a href="https://github.com/Gowshik-S/Gemini-Live-Agent"><img src="./assets/card-rio.svg" alt="Rio Live Agent" width="49%"></a> <a href="https://github.com/Gowshik-S/Ocean-Sentinels"><img src="./assets/card-ocean-sentinels.svg" alt="Ocean Sentinels" width="49%"></a>
 <a href="https://github.com/Gowshik-S/Xyena-AI"><img src="./assets/card-xyena.svg" alt="Xyena AI" width="49%"></a> <a href="https://github.com/Gowshik-S/Maverick-Coding-Platform"><img src="./assets/card-maverick.svg" alt="Maverick" width="49%"></a>
